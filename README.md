@@ -3,7 +3,7 @@
 ## HTML & CSS
 
 ## python
-* [morsecode 프로젝트](/python/Morsecode/morsecode.md) / [python 코드](/python/Morsecode/main.py)
+* [morsecode 프로젝트 설명](/python/Morsecode/morsecode.md) / [python 코드](/python/Morsecode/main.py)
 
 ## javascript
 
